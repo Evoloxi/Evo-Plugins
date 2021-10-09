@@ -1,0 +1,6 @@
+name: DamageIndicator
+version: 1.0.0
+main: at.evoloxi.damage.Damage
+authors: [ Besonderer ]
+description: Damage Indicator
+api-version: 1.16
